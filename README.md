@@ -23,7 +23,7 @@
 
 <p align="center">
   <a href="https://www.microsoft.com/">
-    <img src="./assets/microsoft-collage.jpg" alt="Microsoft experience and product collage" width="600"/>
+    <img src="./assets/microsoft-products-framed-v2.jpg" alt="Microsoft experience and product collage" width="600"/>
   </a>
 </p>
 
