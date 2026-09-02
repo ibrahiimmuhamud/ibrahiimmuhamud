@@ -28,7 +28,7 @@
         <kbd><img src="./assets/uw-ischool-condensed.jpg" alt="University of Washington Information School" width="390"/></kbd>
       </a>
       <br/><br/>
-      <strong>University of Washington</strong>
+      <img src="./assets/uw-mark-small.png" alt="UW" height="20" align="center"/> &nbsp;<strong>University of Washington</strong>
       <br/>
       <sub>Informatics · Information School</sub>
     </td>
@@ -37,7 +37,7 @@
         <kbd><img src="./assets/microsoft-products-condensed.webp" alt="Microsoft product ecosystem" width="390"/></kbd>
       </a>
       <br/><br/>
-      <strong>Microsoft</strong>
+      <img src="./assets/microsoft-mark-small.png" alt="Microsoft" height="20" align="center"/> &nbsp;<strong>Microsoft</strong>
       <br/>
       <sub>Former Discovery Intern · AI product experience</sub>
     </td>
