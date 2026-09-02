@@ -11,25 +11,38 @@
 </p>
 
 <p align="center">
-  <a href="https://ibrahiimmuhamud.vercel.app/">Portfolio</a> •
-  <a href="mailto:ibrahiimmuhamud@gmail.com">Email</a>
-</p>
-
-<p align="center">
-  <a href="https://ischool.uw.edu/programs/informatics">
-    <img src="./assets/uw-ischool-banner.jpg" alt="University of Washington Information School" width="600"/>
+  <a href="https://ibrahiimmuhamud.vercel.app/">
+    <img src="https://img.shields.io/badge/View_Portfolio-111827?style=flat-square&logo=vercel&logoColor=white" alt="View Ibrahiim's portfolio"/>
+  </a>
+  <a href="mailto:ibrahiimmuhamud@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email Ibrahiim"/>
   </a>
 </p>
 
-<p align="center">
-  <a href="https://www.microsoft.com/">
-    <img src="./assets/microsoft-products-framed-v2.jpg" alt="Microsoft experience and product collage" width="600"/>
-  </a>
-</p>
+<h3 align="center">Where I've Learned & Built</h3>
 
-<p align="center">
-  <sub>UW Information School student &nbsp;•&nbsp; Former Microsoft Discovery Intern</sub>
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://ischool.uw.edu/programs/informatics">
+        <kbd><img src="./assets/uw-ischool-condensed.jpg" alt="University of Washington Information School" width="390"/></kbd>
+      </a>
+      <br/><br/>
+      <strong>University of Washington</strong>
+      <br/>
+      <sub>Informatics · Information School</sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://www.microsoft.com/">
+        <kbd><img src="./assets/microsoft-products-condensed.webp" alt="Microsoft product ecosystem" width="390"/></kbd>
+      </a>
+      <br/><br/>
+      <strong>Microsoft</strong>
+      <br/>
+      <sub>Former Discovery Intern · AI product experience</sub>
+    </td>
+  </tr>
+</table>
 
 ## About Me
 
