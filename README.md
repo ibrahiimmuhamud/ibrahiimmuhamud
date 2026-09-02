@@ -72,8 +72,22 @@ I am most interested in the intersection of technology and human needs: understa
 
 ## Let's Connect
 
-I'm always interested in meeting students, builders, and product-minded people working on meaningful technology.
+<p align="center">
+  I'm always interested in meeting students, builders, and product-minded people working on meaningful technology.
+</p>
 
-- [LinkedIn](https://www.linkedin.com/in/ibrahiimmuhamud/)
-- [Portfolio](https://ibrahiimmuhamud.vercel.app/)
-- [Email](mailto:ibrahiimmuhamud@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ibrahiimmuhamud/">
+    <img src="https://img.shields.io/badge/Let's_Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Ibrahiim on LinkedIn"/>
+  </a>
+  <a href="https://ibrahiimmuhamud.vercel.app/">
+    <img src="https://img.shields.io/badge/Explore_My_Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Explore Ibrahiim's portfolio"/>
+  </a>
+  <a href="mailto:ibrahiimmuhamud@gmail.com">
+    <img src="https://img.shields.io/badge/Send_Me_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Ibrahiim"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>Let's build thoughtful technology around real human needs.</sub>
+</p>
