@@ -5,9 +5,28 @@
 </p>
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/ibrahiimmuhamud/">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-Ibrahiim_Muhamud-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Ibrahiim Muhamud on LinkedIn"/>
+  </a>
+</p>
+
+<p align="center">
   <a href="https://ibrahiimmuhamud.vercel.app/">Portfolio</a> •
-  <a href="https://www.linkedin.com/in/ibrahiimmuhamud/">LinkedIn</a> •
   <a href="mailto:ibrahiimmuhamud@gmail.com">Email</a>
+</p>
+
+<p align="center">
+  <a href="https://ischool.uw.edu/programs/informatics">
+    <img src="https://ischool.uw.edu/sites/default/files/inline-images/logo-black.jpg" alt="University of Washington Information School" height="64"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.microsoft.com/">
+    <img src="https://msftstories.thesourcemediaassets.com/2022/05/Microsoft-logo_rgb_c-gray-768x344.png" alt="Microsoft" height="64"/>
+  </a>
+</p>
+
+<p align="center">
+  <sub>UW Information School student &nbsp;•&nbsp; Former Microsoft Discovery Intern</sub>
 </p>
 
 ## About Me
