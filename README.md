@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahiimmuhamud/">
-    <img src="./assets/linkedin-connect-card-v3.svg" alt="Connect with Ibrahiim Muhamud on LinkedIn" width="700"/>
+    <img src="./assets/linkedin-connect-card-v4.svg" alt="Connect with Ibrahiim Muhamud on LinkedIn" width="700"/>
   </a>
 </p>
 
