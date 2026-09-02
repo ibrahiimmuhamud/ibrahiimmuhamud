@@ -21,25 +21,29 @@
 
 <h3 align="center">Where I've Learned & Built</h3>
 
-<table align="center">
+<table align="center" width="100%">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://ischool.uw.edu/programs/informatics">
-        <kbd><img src="./assets/uw-ischool-condensed.jpg" alt="University of Washington Information School" width="390"/></kbd>
+        <kbd><img src="./assets/uw-ischool-condensed.jpg" alt="University of Washington Information School" width="390" height="91"/></kbd>
       </a>
       <br/><br/>
-      <img src="./assets/uw-mark-small.png" alt="UW" height="20" align="center"/> &nbsp;<strong>University of Washington</strong>
-      <br/>
-      <sub>Informatics · Information School</sub>
+      <p align="center">
+        <img src="./assets/uw-mark-small.png" alt="UW" height="18" align="middle"/> <strong>University of Washington</strong>
+        <br/>
+        <sub>Informatics · Information School</sub>
+      </p>
     </td>
-    <td align="center" width="50%">
+    <td align="center" valign="top" width="50%">
       <a href="https://www.microsoft.com/">
-        <kbd><img src="./assets/microsoft-products-condensed.webp" alt="Microsoft product ecosystem" width="390"/></kbd>
+        <kbd><img src="./assets/microsoft-products-condensed-v2.jpg" alt="Microsoft product ecosystem" width="390" height="91"/></kbd>
       </a>
       <br/><br/>
-      <img src="./assets/microsoft-mark-small.png" alt="Microsoft" height="20" align="center"/> &nbsp;<strong>Microsoft</strong>
-      <br/>
-      <sub>Former Discovery Intern · AI product experience</sub>
+      <p align="center">
+        <img src="./assets/microsoft-mark-small-v2.png" alt="Microsoft" height="18" align="middle"/> <strong>Microsoft</strong>
+        <br/>
+        <sub>Former Discovery Intern · AI product experience</sub>
+      </p>
     </td>
   </tr>
 </table>
