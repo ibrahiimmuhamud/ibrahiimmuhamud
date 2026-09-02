@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahiimmuhamud/">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=700&amp;size=26&amp;duration=1800&amp;pause=650&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=60&amp;lines=Let%27s+connect+on+LinkedIn+%F0%9F%A4%9D;Product+%E2%80%A2+AI+%E2%80%A2+Data;Let%27s+build+what%27s+next+%F0%9F%9A%80" alt="Connect with Ibrahiim Muhamud on LinkedIn"/>
+    <img src="./assets/linkedin-connect-card-v2.svg" alt="Connect with Ibrahiim Muhamud on LinkedIn" width="700"/>
   </a>
 </p>
 
