@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahiimmuhamud/">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=600&amp;size=24&amp;duration=2200&amp;pause=700&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;repeat=false&amp;width=560&amp;height=48&amp;lines=Connect+with+me+on+LinkedIn+%E2%86%92" alt="Connect with Ibrahiim Muhamud on LinkedIn"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&amp;weight=700&amp;size=26&amp;duration=1800&amp;pause=650&amp;color=0A66C2&amp;center=true&amp;vCenter=true&amp;repeat=true&amp;width=650&amp;height=60&amp;lines=Let%27s+connect+on+LinkedIn+%F0%9F%A4%9D;Product+%E2%80%A2+AI+%E2%80%A2+Data;Let%27s+build+what%27s+next+%F0%9F%9A%80" alt="Connect with Ibrahiim Muhamud on LinkedIn"/>
   </a>
 </p>
 
@@ -17,13 +17,13 @@
 
 <p align="center">
   <a href="https://ischool.uw.edu/programs/informatics">
-    <img src="./assets/uw-ischool-banner.jpg" alt="University of Washington Information School" width="718"/>
+    <img src="./assets/uw-ischool-banner.jpg" alt="University of Washington Information School" width="600"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://www.microsoft.com/">
-    <img src="https://msftstories.thesourcemediaassets.com/2022/05/Microsoft-logo_rgb_c-gray-768x344.png" alt="Microsoft" height="56"/>
+    <img src="./assets/microsoft-collage.jpg" alt="Microsoft experience and product collage" width="600"/>
   </a>
 </p>
 
