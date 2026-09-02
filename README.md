@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ibrahiimmuhamud/">
-    <img src="./assets/linkedin-connect-card-v2.svg" alt="Connect with Ibrahiim Muhamud on LinkedIn" width="700"/>
+    <img src="./assets/linkedin-connect-card-v3.svg" alt="Connect with Ibrahiim Muhamud on LinkedIn" width="700"/>
   </a>
 </p>
 
@@ -29,7 +29,7 @@
       </a>
       <br/><br/>
       <p align="center">
-        <img src="./assets/uw-mark-small.png" alt="UW" height="18" align="middle"/> <strong>University of Washington</strong>
+        <img src="./assets/uw-mark-aligned-v2.png" alt="UW" width="24" height="24" align="middle"/> <strong>University of Washington</strong>
         <br/>
         <sub>Informatics · Information School</sub>
       </p>
@@ -40,7 +40,7 @@
       </a>
       <br/><br/>
       <p align="center">
-        <img src="./assets/microsoft-mark-small-v2.png" alt="Microsoft" height="18" align="middle"/> <strong>Microsoft</strong>
+        <img src="./assets/microsoft-mark-aligned-v3.png" alt="Microsoft" width="24" height="24" align="middle"/> <strong>Microsoft</strong>
         <br/>
         <sub>Former Discovery Intern · AI product experience</sub>
       </p>

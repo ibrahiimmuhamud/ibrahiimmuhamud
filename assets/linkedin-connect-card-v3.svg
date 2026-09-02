@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="124" viewBox="0 0 760 124" role="img" aria-labelledby="title desc">
+  <title id="title">Connect with Ibrahiim Muhamud on LinkedIn</title>
+  <desc id="desc">Animated LinkedIn profile card with a blue gradient frame, moving highlight, and LinkedIn logo.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071A2F"/>
+      <stop offset="0.52" stop-color="#0A365F"/>
+      <stop offset="1" stop-color="#071A2F"/>
+    </linearGradient>
+    <linearGradient id="frame" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45C4FF"/>
+      <stop offset="0.45" stop-color="#0A66C2"/>
+      <stop offset="0.72" stop-color="#8BD8FF"/>
+      <stop offset="1" stop-color="#45C4FF"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="cardClip">
+      <rect x="4" y="4" width="752" height="116" rx="25"/>
+    </clipPath>
+  </defs>
+
+  <style>
+    .frame { animation: dash 7s linear infinite; }
+    .shine { animation: sweep 4.8s ease-in-out infinite; }
+    .logo { transform-origin: 65px 62px; animation: breathe 2.8s ease-in-out infinite; }
+    .arrow { animation: nudge 1.8s ease-in-out infinite; }
+    .status { animation: pulse 1.8s ease-in-out infinite; }
+    .headline {
+      font-family: "Avenir Next", "Montserrat", "Segoe UI", sans-serif;
+      font-size: 25px;
+      font-weight: 800;
+      letter-spacing: 4px;
+    }
+    .subtitle {
+      font-family: "Avenir Next", "Montserrat", "Segoe UI", sans-serif;
+      font-size: 15px;
+      font-weight: 500;
+      letter-spacing: 0.7px;
+    }
+    .action {
+      font-family: "Avenir Next", "Montserrat", "Segoe UI", sans-serif;
+      font-size: 12px;
+      font-weight: 700;
+      letter-spacing: 1.1px;
+    }
+    @keyframes dash { to { stroke-dashoffset: -72; } }
+    @keyframes sweep {
+      0%, 16% { transform: translateX(-270px) skewX(-18deg); opacity: 0; }
+      28% { opacity: 1; }
+      62% { transform: translateX(900px) skewX(-18deg); opacity: 0.85; }
+      63%, 100% { transform: translateX(900px) skewX(-18deg); opacity: 0; }
+    }
+    @keyframes breathe { 0%, 100% { transform: scale(1); } 50% { transform: scale(1.055); } }
+    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(6px); } }
+    @keyframes pulse { 0%, 100% { opacity: 0.55; } 50% { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .frame, .shine, .logo, .arrow, .status { animation: none; }
+    }
+  </style>
+
+  <rect x="4" y="4" width="752" height="116" rx="25" fill="url(#background)"/>
+  <rect class="frame" x="4" y="4" width="752" height="116" rx="25" fill="none" stroke="url(#frame)" stroke-width="3" stroke-dasharray="18 8" filter="url(#glow)"/>
+
+  <g clip-path="url(#cardClip)">
+    <circle cx="623" cy="-24" r="120" fill="#0A66C2" opacity="0.14"/>
+    <circle cx="561" cy="148" r="104" fill="#45C4FF" opacity="0.08"/>
+    <rect class="shine" x="-180" y="-25" width="135" height="180" fill="url(#shine)"/>
+  </g>
+
+  <g class="logo" filter="url(#glow)">
+    <rect x="27" y="24" width="76" height="76" rx="19" fill="#0A66C2"/>
+    <path fill="#FFFFFF" transform="translate(40 37) scale(2.1)" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.94v5.666H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433a2.062 2.062 0 1 1 0-4.124 2.062 2.062 0 0 1 0 4.124zM7.119 20.452H3.554V9h3.565v11.452z"/>
+  </g>
+
+  <text class="headline" x="128" y="53" fill="#FFFFFF">LET'S CONNECT</text>
+  <text class="subtitle" x="129" y="80" fill="#BFDFFF">Ibrahiim Muhamud  ·  Product, AI &amp; Data</text>
+  <circle class="status" cx="132" cy="99" r="4" fill="#63E6BE" filter="url(#glow)"/>
+  <text class="action" x="145" y="103" fill="#DDF3FF">OPEN TO THOUGHTFUL CONVERSATIONS</text>
+
+  <g transform="translate(653 32)">
+    <rect width="76" height="60" rx="20" fill="#FFFFFF" fill-opacity="0.09" stroke="#7FD5FF" stroke-opacity="0.55"/>
+    <g transform="translate(22 18)">
+      <g class="arrow" fill="none" stroke="#FFFFFF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+        <path d="M0 12h28"/>
+        <path d="m18 2 10 10-10 10"/>
+      </g>
+    </g>
+  </g>
+</svg>
